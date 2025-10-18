@@ -1,5 +1,3 @@
-# TODO do Projeto Onde Comer (Assistente de Decisão Culinária)
-
 # 1. Nível básico: core local
 Tecnologias: Python, Flask, HTML, CSS e Docker.
 
