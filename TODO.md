@@ -15,10 +15,10 @@ Objetivo: garantir que o repositório esteja pronto para receber o código e ser
 Objetivo: ter um script Python que resolva a questão central (sugerir um lugar para comer).
 
 ### 1.2.1. Preparação e dados
-- [ ] Definir a estrutura inicial da fonte de dados.
-- [ ] Definir o tipo de fonte de dados (a ideia é ser o mais simples possível apenas para validar o sistema).
-- [ ] Criar o arquivo principal do projeto (`main.py`).
-- [ ] Criar a fonte de dados (inserir tipo de fonte de dados escolhida).
+- [X] Definir a estrutura inicial da fonte de dados.
+- [X] Definir o tipo de fonte de dados (a ideia é ser o mais simples possível apenas para validar o sistema).
+- [X] Criar o arquivo principal do projeto (`main.py`).
+- [X] Criar a fonte de dados (escolhida lista de dicionários como fonte de dados inicial para validação).
 
 ### 1.2.2. Funcionalidade essencial
 - [ ] Implementar a função principal para carregar a lista de restaurantes.
